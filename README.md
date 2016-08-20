@@ -3,7 +3,7 @@ a list of software in linux system
 
 ------
 ##1.NetEase cloud music
-| Support        | URL   | 
+| Support        | URL   |
 | --------   | -----:  | 
 | 1.deepin15(32 and 64) |http://music.163.com/#/download  | 
 | 2.ubuntu16.04(32 and 64) | http://music.163.com/#/download | 
@@ -23,3 +23,7 @@ a list of software in linux system
 | ubuntu| sudo apt-get install ksnapshot | 
 
 
+##4.youdao Dict 
+| Support        | URL   | 
+| --------   | -----:  | 
+| Linux(32 and 64) |http://cidian.youdao.com/index-linux.html  | 
