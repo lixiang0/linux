@@ -23,7 +23,7 @@ a list of software in linux system
 | ubuntu| sudo apt-get install ksnapshot | 
 
 
-##5.youdao Dict 
+##4.youdao Dict 
 | Support        | URL   | 
 | --------   | -----:  | 
 | Linux(32 and 64) |http://cidian.youdao.com/index-linux.html  |
@@ -31,7 +31,7 @@ a list of software in linux system
 
 
 
-##4.QQ 
+##5.QQ 
 | Support        | URL   | 
 | --------   | -----:  | 
 | Linux(32 and 64) |http://www.ubuntukylin.com/application/show.php?lang=cn&id=279 |
