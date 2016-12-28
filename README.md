@@ -45,3 +45,9 @@ a list of software in linux system
 | Linux(32 and 64) |https://www.virtualbox.org/wiki/Linux_Downloads |
 
 
+##7.OpenOffice:文字处理软件
+| Support        | URL   | 
+| --------   | -----:  | 
+| Linux(32 and 64) |https://www.openoffice.org/zh-cn/download/ |
+
+
