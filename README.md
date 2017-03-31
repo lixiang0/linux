@@ -2,6 +2,7 @@
 a list of software in linux system
 
 ------
+
 ##1.NetEase cloud music
 
 | Support        | URL   |
@@ -67,4 +68,4 @@ a list of software in linux system
 
 | Support        | URL   | 
 | --------   | -----:  | 
-| Linux(32 and 64) |sudo add-apt-repository ppa:webupd8team/sublime-text-3 sudo apt-get update sudo apt-get install sublime-text-installer|
+| Linux(32 and 64) |sudo add-apt-repository ppa:webupd8team/sublime-text-3<br/>sudo apt-get update<br/>sudo apt-get install sublime-text-installer|
