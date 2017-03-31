@@ -58,6 +58,13 @@ a list of software in linux system
 | Linux(32 and 64) |https://www.openoffice.org/zh-cn/download/ |
 
 ##8.文本比对工具
+
 | Support        | URL   | 
 | --------   | -----:  | 
 | Linux(32 and 64) |sudo apt-get install meld |
+
+##9.subline
+
+| Support        | URL   | 
+| --------   | -----:  | 
+| Linux(32 and 64) |sudo add-apt-repository ppa:webupd8team/sublime-text-3 sudo apt-get update sudo apt-get install sublime-text-installer|
