@@ -3,7 +3,7 @@ a list of software in linux system
 
 ------
 
-##1.NetEase cloud music
+## 1.NetEase cloud music
 
 | Support        | URL   |
 | --------   | -----:  | 
@@ -12,7 +12,7 @@ a list of software in linux system
 | 3.ubuntu14.04(32 and 64)     | http://music.163.com/#/download |  
 
 
-##2.SouGou pinyin input method
+## 2.SouGou pinyin input method
 
 | Support        | URL   | 
 | --------   | -----:  | 
@@ -20,14 +20,14 @@ a list of software in linux system
 | 2.ubuntu16.04(32 and 64) | http://pinyin.sogou.com/linux/ | 
 | 3.ubuntu14.04(32 and 64)     | http://pinyin.sogou.com/linux/ |
 
-##3.ksnapshot
+## 3.ksnapshot
 
 | Support        | URL   | 
 | --------   | -----:  | 
 | ubuntu| sudo apt-get install ksnapshot | 
 
 
-##4.youdao Dict 
+## 4.youdao Dict 
 
 | Support        | URL   | 
 | --------   | -----:  | 
@@ -36,7 +36,7 @@ a list of software in linux system
 
 
 
-##5.QQ 
+## 5.QQ 
 
 | Support        | URL   | 
 | --------   | -----:  | 
@@ -45,26 +45,26 @@ a list of software in linux system
 
 
 
-##6.VirtualBox 
+## 6.VirtualBox 
 
 | Support        | URL   | 
 | --------   | -----:  | 
 | Linux(32 and 64) |https://www.virtualbox.org/wiki/Linux_Downloads |
 
 
-##7.OpenOffice:文字处理软件
+## 7.OpenOffice:文字处理软件
 
 | Support        | URL   | 
 | --------   | -----:  | 
 | Linux(32 and 64) |https://www.openoffice.org/zh-cn/download/ |
 
-##8.文本比对工具
+## 8.文本比对工具
 
 | Support        | URL   | 
 | --------   | -----:  | 
 | Linux(32 and 64) |sudo apt-get install meld |
 
-##9.subline
+## 9.subline
 
 | Support        | URL   | 
 | --------   | -----:  | 
