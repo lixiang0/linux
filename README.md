@@ -69,3 +69,18 @@ a list of software in linux system
 | Support        | URL   | 
 | --------   | -----:  | 
 | Linux(32 and 64) |sudo add-apt-repository ppa:webupd8team/sublime-text-3<br/>sudo apt-get update<br/>sudo apt-get install sublime-text-installer|
+
+## 10.xmind
+
+| Support        | URL   | 
+| --------   | -----:  | 
+| Linux(32 and 64) |http://xiazai.xmindchina.cn/trail/xmind-8-linux.zip|
+
+
+## 11.teamviewer
+
+| Support        | URL   | 
+| --------   | -----:  | 
+| Linux(32 and 64) |https://download.teamviewer.com/download/teamviewer_i386.deb|
+
+
