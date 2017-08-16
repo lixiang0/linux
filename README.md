@@ -83,4 +83,10 @@ a list of software in linux system
 | --------   | -----:  | 
 | Linux(32 and 64) |https://download.teamviewer.com/download/teamviewer_i386.deb|
 
+## 12.remarkable(本地markdown编写工具)
+
+| Support        | URL   | 
+| --------   | -----:  | 
+| Linux(32 and 64) |https://remarkableapp.github.io/linux/download.html|
+
 
