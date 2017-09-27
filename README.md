@@ -70,26 +70,21 @@ a list of software in linux system
 | --------   | -----:  | 
 | Linux(32 and 64) |sudo add-apt-repository ppa:webupd8team/sublime-text-3<br/>sudo apt-get update<br/>sudo apt-get install sublime-text-installer|
 
-## 10.xmind
-
-| Support        | URL   | 
-| --------   | -----:  | 
-| Linux(32 and 64) |http://xiazai.xmindchina.cn/trail/xmind-8-linux.zip|
 
 
-## 11.teamviewer
+## 10.teamviewer
 
 | Support        | URL   | 
 | --------   | -----:  | 
 | Linux(32 and 64) |https://download.teamviewer.com/download/teamviewer_i386.deb|
 
-## 12.remarkable(本地markdown编写工具)
+## 11.remarkable(本地markdown编写工具)
 
 | Support        | URL   | 
 | --------   | -----:  | 
 | Linux(32 and 64) |https://remarkableapp.github.io/linux/download.html|
 
-## 13.思维图绘制工具
+## 12.思维图绘制工具
 | Support        | URL   | 
 | --------   | -----:  | 
 | Linux(32 and 64) |http://www.xmind.net/download/linux/|
