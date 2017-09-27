@@ -89,4 +89,7 @@ a list of software in linux system
 | --------   | -----:  | 
 | Linux(32 and 64) |https://remarkableapp.github.io/linux/download.html|
 
-
+## 13.思维图绘制工具
+| Support        | URL   | 
+| --------   | -----:  | 
+| Linux(32 and 64) |http://www.xmind.net/download/linux/|
