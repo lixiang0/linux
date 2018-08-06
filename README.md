@@ -36,11 +36,20 @@ a list of software in linux system
 
 
 
-## 5.QQ 
+## 5.QQ&wechat
+
+### qq
 
 | Support        | URL   | 
 | --------   | -----:  | 
 | Linux(32 and 64) |http://www.ubuntukylin.com/application/show.php?lang=cn&id=279 |
+| Linux(32 and 64) |https://github.com/askme765cs/Wine-QQ-TIM|
+
+### wechat
+
+| Support        | URL   | 
+| --------   | -----:  | 
+| Linux(32 and 64) |https://github.com/eNkru/electron-wechat/releases |
 
 
 
